@@ -1,0 +1,24 @@
+{
+  "name": "esgiexo",
+  "version": "1.0.0",
+  "description": "quelque chose",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcglm/esgiexo.git"
+  },
+  "author": "marc_john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcglm/esgiexo/issues"
+  },
+  "homepage": "https://github.com/marcglm/esgiexo#readme"
+}
